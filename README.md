@@ -1,15 +1,23 @@
-Yii-Bootstrap-Editable
-======================
+IsAGecko atau Information System Absence With Geographical Data Current Place and Take New Photo
+================================================================================================
 
-This extension joins [Yii framework](http://yiiframework.com) with [Bootstrap Editable plugin](http://vitalets.github.com/bootstrap-editable) allowing in-place editing with [Twitter Bootstrap](http://twitter.github.com/bootstrap) Form and Popover.
-Includes three widgets and one component that together give you extremely fast and easy way for creating editable interfaces. 
+Aplikasi ini dibuat oleh: 
+1. Fahrul Sanjaya
+2. Bayu Agung Prasetya
+3. Abidurrohman
+4. Astarika Fany A.D
+5. Lailatus S.
+Aplikasi ini dibuat untuk memenuhi tugas akhir semester ganjil pada 2019, di PENS.
 
-## Demo & Documentation
+Instalasi.
+==========
+Requirements
+1. PHP >5.3
 
-http://demopage.ru/yii-bootstrap-editable
-
-## Contributing
-Please make all pull requests against `dev` branch. Your feedback / contribution is very appreciated.
-
-## Questions
-If you have question please feel free to [create an issue](https://github.com/vitalets/yii-bootstrap-editable/issues).
+Cara memakai.
+1. buat database isagecko_db di phpmyadmin
+2. extract file vendor.rar
+3. jalankan  php -S localhost:8080 -t web di terminal atau CMD
+4. buka browser dan ketik  localhost:8080
+5. Login : username: jaya. password: jayajaya (admin)
+6. Login : username: budi. password: budibudi (user)
